@@ -1,3 +1,2 @@
-  Hello there, my name is Ethan, and I'm a 16 year old C/C#/C++ dev (as a hobby, not as a profession.). I'm experienced with UE4, UE5, unity, and blender.
- I've also been learning to use the Vulkan API, I've been working on a small wrapper for Vulkan recently. I've know glsl, hlsl, and I plan on learning about CGL (The shading language)
- 
+ Hi, I'm a C/C++ dev with a large interest in 2D and 3D graphics. I've been using UE4, Blender, and UE5 for 4 years now (as a hobby). For the last year and a half, I've been using the Vulkan API to make renderers, I've made one 2D renderer (for sprite creation, drawing, and simple Runtime game rendering), and two 3D renderers (one for map design and modeling, and one as a runtime game renderer), each with different drawing techniques.
+ I also plan on learning directx 12/11, from what I've seen, it's not too different from vulkan, just different class/struct names and methods. So hopefully learning DX12/11 won't be too difficult, Vulkan was my first experience with 2D or 3D graphics (other than unity shader development), so it took me a little while to learn how to use it.
